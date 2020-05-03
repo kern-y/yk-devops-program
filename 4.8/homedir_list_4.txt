@@ -1,0 +1,45 @@
+   
+   
+бер 29 23:19 Desktop
+бер 29 23:19 Documents
+бер 29 23:19 Downloads
+бер 29 22:48 examples.desktop
+бер 29 23:19 Music
+кві 26 02:18 Pictures
+бер 29 23:19 Public
+кві 22 01:04 root_entries.txt
+кві 21 23:07 setuid.txt
+бер 29 23:19 Templates
+бер 29 23:19 Videos
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+кві 18 01:48 Screenshot
+кві 18 23:22 Screenshot
+кві 24 00:03 Screenshot
+кві 24 00:12 Screenshot
+кві 24 01:09 Screenshot
+кві 24 01:10 Screenshot
+кві 24 01:10 Screenshot
+кві 26 02:18 Screenshot
+   
+   
+   
+   
+   
+   
+   
+   
+   
